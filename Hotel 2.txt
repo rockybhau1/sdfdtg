@@ -1,0 +1,39 @@
+                                  Hotel Management Requirements
+
+Requirements:
+
+Details of customer:
+Name
+age
+ph no
+
+Login to website for booking:
+Rooms
+Tables
+
+Login to website using:
+e-mail id 
+ ph no
+
+Room facilities:
+AC rooms
+Non-AC rooms
+
+Booking tables:
+per person or
+so many people 
+
+Food menu:
+chinese
+Indian
+etc
+
+Staffs recruitment based on:
+Skills
+Experience
+qualification
+
+
+
+
+
